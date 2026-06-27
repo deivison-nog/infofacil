@@ -109,6 +109,4 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 
 ## Logo
 
-- `app/src/main/res/drawable/infofacil_logo.svg`
 - `app/src/main/res/drawable/infofacil_logo_foreground.xml`
-
