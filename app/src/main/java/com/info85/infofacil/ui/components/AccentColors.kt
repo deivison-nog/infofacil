@@ -3,7 +3,6 @@ package com.info85.infofacil.ui.components
 import androidx.compose.ui.graphics.Color
 import com.info85.infofacil.model.ModuleAccent
 import com.info85.infofacil.ui.theme.BlueAccent
-import com.info85.infofacil.ui.theme.BlueSecondary
 import com.info85.infofacil.ui.theme.GreenAccentModule
 import com.info85.infofacil.ui.theme.OrangeAccent
 import com.info85.infofacil.ui.theme.PurpleAccent
